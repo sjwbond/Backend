@@ -1,5 +1,11 @@
 # Backend
 
+Quickstart (requires Docker):
+
+```
+docker compose up -d
+```
+
 ## Configuration
 
 Create a database for storing the data and files.
